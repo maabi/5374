@@ -1,8 +1,8 @@
-label	sublabel	description	styles	bgcolor
-”R‚â‚¹‚é‚²‚İ			img/moyasu02.svg	#ea3b13
-”R‚â‚¹‚È‚¢‚²‚İ			img/moyasanai02.svg	#733b96
-ƒvƒ‰ƒXƒ`ƒbƒN»—eŠí•ï‘•			img/shigen02.svg	#77ae1f
-‹ó‚«ŠÊ			img/shigen02.svg	#bbe400
-‹ó‚«‚Ñ‚ñ			img/bin02.svg	#2dc7aa
-ƒyƒbƒgƒ{ƒgƒ‹—Ş			img/shigen02.svg	#81d12e
-ƒ_ƒ“ƒ{[ƒ‹E†»—eŠíE†ƒpƒbƒN			img/shigen02.svg	#08b925
+ï»¿label,sublabel,description,styles,bgcolor
+ç‡ƒã‚„ã›ã‚‹ã”ã¿,,,img/moyasu02.svg ,#ea3b13
+ç‡ƒã‚„ã›ãªã„ã”ã¿,,,img/moyasanai02.svg,#733b96
+ãƒ—ãƒ©ã‚¹ãƒãƒƒã‚¯è£½å®¹å™¨åŒ…è£…,,,img/shigen02.svg ,#77ae1f
+ç©ºãç¼¶,,,img/shigen02.svg ,#bbe400
+ç©ºãã³ã‚“,,,img/bin02.svg ,#2dc7aa
+ãƒšãƒƒãƒˆãƒœãƒˆãƒ«é¡,,,img/shigen02.svg,#81d12e
+ãƒ€ãƒ³ãƒœãƒ¼ãƒ«ãƒ»ç´™è£½å®¹å™¨ãƒ»ç´™ãƒ‘ãƒƒã‚¯,,,img/shigen02.svg ,#08b925
